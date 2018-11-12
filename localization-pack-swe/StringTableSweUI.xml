@@ -94,8 +94,8 @@
             <GameDBLocalizedString>      <LocID>STATISTICS_PERIOD_MONTH</LocID>             <Text>Månad</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>UI_ROOM_MISSING_EQUIPMENT</LocID>           <Text>SAKNAR UTRUSTNING</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE</LocID>                <Text>EJ NÅRBAR</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE_PATIENTS</LocID>       <Text>(EJ NÅRBAR FÖR PATIENTER)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE</LocID>                <Text>EJ NÅBAR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_INACCESSIBLE_PATIENTS</LocID>       <Text>(EJ NÅBAR FÖR PATIENTER)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UI_ROOM_MISSING_STAFF</LocID>               <Text>(SAKNAR PERSONAL)</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>UI_DEPARTMENT_CLOSED</LocID>                <Text>(AVDELNING STÄNGD)</Text>  </GameDBLocalizedString>
@@ -168,7 +168,7 @@
             <GameDBLocalizedString>      <LocID>EQUIPMENT_BUSY</LocID>             	        <Text>Nödvändig utrustning används redan.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EQUIPMENT_UNAVAILABLE</LocID>             	<Text>Nödvändig utrustning ej tillgänglig.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NO_ROOM</LocID>        	                    <Text>Nödvändigt rum saknas.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_CAN_NOT_PRESCRIBE</LocID>        	<Text>Läkaren är inte behörig att ordinera.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_CAN_NOT_PRESCRIBE</LocID>        	<Text>Läkaren är inte behörig att förskriva.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMERGENCY_NO_SURGERY</LocID>        	    <Text>Kirurgi kan endast utföras i en specialiserade avdelningar.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>STAFF_UNAVAILABLE_NIGHT</LocID>        	    <Text>Nattskiftet är ej bemannat.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NO_FREE_BED</LocID>        	                <Text>Ingen ledig säng i en fungerande sjuksal.</Text>  </GameDBLocalizedString><!--CHECK meaning of "ward" here in-game-->
@@ -186,7 +186,7 @@
 
             <GameDBLocalizedString>      <LocID>PERSONAL_INFO_GENDER</LocID>                <Text>Kön:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERSONAL_INFO_OCCUPATION</LocID>            <Text>Yrke:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_INSURANCE</LocID>             <Text>Försäkringsbolag:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERSONAL_INFO_INSURANCE</LocID>             <Text>Försäkring:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERSONAL_INFO_BALANCE</LocID>               <Text>Betalat:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERSONAL_INFO_VACCINATION</LocID>           <Text>Semester:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERSONAL_INFO_SALARY</LocID>                <Text>Lön:</Text>  </GameDBLocalizedString>
@@ -203,13 +203,13 @@
             <GameDBLocalizedString>      <LocID>AI_CONTROL</LocID>                          <Text>Läkarkontrollerad</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FAVORITE</LocID>                            <Text>Favorit</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_1</LocID>                    <Text>Dold symptom</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_1</LocID>                    <Text>Dolt symptom</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_2_TO_4</LocID>               <Text>Dolda symptomer</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HIDDEN_SYMPTOM_5_OR_MORE</LocID>            <Text>Dolda symptomer</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_DOCTOR</LocID>    <Text>Läkare</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_FINAL</LocID>     <Text>Slutgiltig diagnos</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_POSSIBLE</LocID>  <Text>Möjliga diagnoser</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_DIAGNOSIS_POSSIBLE</LocID>  <Text>Tänkbara diagnoser</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_PLANNED</LocID><Text>Planerad</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_EXAMINATIONS_ACTIVE</LocID> <Text>Utförda undersökningar</Text>  </GameDBLocalizedString>
